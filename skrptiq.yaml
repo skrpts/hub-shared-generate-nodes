@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "2d02fd1a-1af7-43bc-87d5-b45be76e4d7a"
+name: "generate-nodes"
+display_name: "Generate Nodes"
+description: "Generates all skrpt node files from a structured design specification"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-generate-nodes"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
